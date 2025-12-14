@@ -4,3 +4,10 @@ shinywidgets
 plotly
 pandas
 ridgeplot
+joblib
+sentence_transformers
+matplotlib
+scikit-learn
+seaborn
+numpy
+

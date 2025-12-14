@@ -1,11 +1,12 @@
 ---
-title: Vote Scope
+title: Votescope
 emoji: 🌍
 colorFrom: yellow
 colorTo: indigo
 sdk: docker
 pinned: false
 license: mit
+short_description: Voting Congress Dashboard
 ---
 
 This is a templated Space for [Shiny for Python](https://shiny.rstudio.com/py/). 
