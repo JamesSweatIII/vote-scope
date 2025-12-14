@@ -1,5 +1,5 @@
 ---
-title: Shiny for Python template
+title: Vote Scope
 emoji: 🌍
 colorFrom: yellow
 colorTo: indigo
